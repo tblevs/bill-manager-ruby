@@ -10,6 +10,9 @@
   </head>
 
   <body>
-    <%= yield %>
+    <%= render 'shared/header' %>
+    <%= render 'shared/navigation' %>
+    <%= yield %> <!-- Variable content page -->
+    <%= render 'shared/footer' %>
   </body>
 </html>
