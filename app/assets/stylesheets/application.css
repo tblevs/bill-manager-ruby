@@ -98,6 +98,10 @@
 	html, body {
 	  height: 100%;
 	}
+	main {
+		margin:10px;
+		border:1px solid black;
+	}
 	body {
 	  display: flex;
 	  flex-direction: column;

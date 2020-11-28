@@ -1957,3 +1957,919 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 44ms (Views: 39.2ms | ActiveRecord: 0.0ms | Allocations: 22302)
 
 
+Started GET "/" for ::1 at 2020-11-28 17:07:00 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 5)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 17ms (Views: 16.4ms | ActiveRecord: 0.0ms | Allocations: 3863)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:07:19 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 5)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 23ms (Views: 22.1ms | ActiveRecord: 0.0ms | Allocations: 3847)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:08:58 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 3983)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:08:59 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 3872)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:08:59 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 5)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 3862)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:08:59 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 3862)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:09:41 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 5.4ms | Allocations: 4222)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 8607)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:09:48 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 525)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 4375)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:09:49 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 525)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 4382)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:10:21 -0500
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:3:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/" for ::1 at 2020-11-28 17:10:22 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+actionpack (6.0.3.4) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.1.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.1.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.4) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.4) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.4) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.4) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.4) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.4) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.4) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.3.0) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.4) lib/rails/engine.rb:527:in `call'
+puma (4.3.6) lib/puma/configuration.rb:228:in `call'
+puma (4.3.6) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.6) lib/puma/server.rb:472:in `process_client'
+puma (4.3.6) lib/puma/server.rb:328:in `block in run'
+puma (4.3.6) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/" for ::1 at 2020-11-28 17:10:55 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 833)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4840)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:10:56 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 528)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4386)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:10:57 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 4377)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:10:58 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 4393)
+
+
+Started GET "/" for ::1 at 2020-11-28 17:10:58 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4379)
+
+
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from block in execute at /home/tblevs/.rvm/rubies/ruby-2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.0.1/lib/rake/task.rb:281)
+Started GET "/" for ::1 at 2020-11-28 17:16:21 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1001)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.2ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 0.5ms | Allocations: 997)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms | Allocations: 7007)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check 
+<div class="nav">
+	<div id="parent">
+		<div id="wide" class="container">
+
+			<ul class="vertical-center">
+			  <li><%= "Calculator", calculator_index %></li>
+			  <li><a href="#">Bills</a></li>
+			  <li><a href="#">Personal Information</a></li>
+			</ul>
+
+	  	</div>
+
+		<div id="narrow">
+			<div class="center-profile-image">
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+):
+1:    
+2:    <div class="nav">
+3:    	<div id="parent">
+4:    		<div id="wide" class="container">
+5:    
+6:    			<ul class="vertical-center">
+7:    			  <li><%= "Calculator", calculator_index %></li>
+8:    			  <li><a href="#">Bills</a></li>
+9:    			  <li><a href="#">Personal Information</a></li>
+10:    			</ul>
+11:    
+12:    	  	</div>
+13:    
+14:    		<div id="narrow">
+15:    			<div class="center-profile-image">
+16:    
+17:    			</div>
+18:    		</div>
+19:    	</div>
+20:    
+21:    </div>
+  
+app/views/shared/_navigation.html.erb:7: syntax error, unexpected ',', expecting ')'
+app/views/shared/_navigation.html.erb:7: syntax error, unexpected ',', expecting ')'
+app/views/shared/_navigation.html.erb:7: syntax error, unexpected ',', expecting ')'
+app/views/shared/_navigation.html.erb:7: syntax error, unexpected ',', expecting ')'
+app/views/shared/_navigation.html.erb:7: syntax error, unexpected ',', expecting ')'
+app/views/shared/_navigation.html.erb:7: syntax error, unexpected ',', expecting ')'
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2020-11-28 17:16:53 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 711)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.2ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 139.5ms | Allocations: 124805)
+Completed 500 Internal Server Error in 148ms (ActiveRecord: 0.0ms | Allocations: 130569)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `calculator_index' for #<#<Class:0x00007f0f00079368>:0x00007f0f00075f10>
+Did you mean?  calculator_index_url):
+    4: 		<div id="wide" class="container">
+    5: 
+    6: 			<ul class="vertical-center">
+    7: 			  <li><%= link_to "Calculator", calculator_index %></li>
+    8: 			  <li><a href="#">Bills</a></li>
+    9: 			  <li><a href="#">Personal Information</a></li>
+   10: 			</ul>
+  
+app/views/shared/_navigation.html.erb:7
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2020-11-28 17:17:55 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 2.2ms | Allocations: 712)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.3ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 135.7ms | Allocations: 124814)
+Completed 500 Internal Server Error in 150ms (ActiveRecord: 0.0ms | Allocations: 130578)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `calculator_path' for #<#<Class:0x00005648c180cf18>:0x00005648c17cc648>
+Did you mean?  calculator_index_path):
+    4: 		<div id="wide" class="container">
+    5: 
+    6: 			<ul class="vertical-center">
+    7: 			  <li><%= link_to "Calculator", calculator_path %></li>
+    8: 			  <li><a href="#">Bills</a></li>
+    9: 			  <li><a href="#">Personal Information</a></li>
+   10: 			</ul>
+  
+app/views/shared/_navigation.html.erb:7
+app/views/layouts/application.html.erb:14
+Started GET "/" for ::1 at 2020-11-28 17:18:35 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 2.2ms | Allocations: 711)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.4ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 0.3ms | Allocations: 139)
+  Rendered shared/_footer.html.erb (Duration: 0.1ms | Allocations: 75)
+Completed 200 OK in 14ms (Views: 12.4ms | ActiveRecord: 0.0ms | Allocations: 6204)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:18:36 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 74)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 41)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4483)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:18:37 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 35)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 3883)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:18:38 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 35)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 3884)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:19:18 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.2ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 0.4ms | Allocations: 185)
+  Rendered shared/_footer.html.erb (Duration: 0.2ms | Allocations: 75)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 5620)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:19:19 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 711)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 50)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 5180)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:19:19 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.5ms | Allocations: 62)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 11ms (Views: 9.9ms | ActiveRecord: 0.0ms | Allocations: 3915)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:19:20 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 47)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 4436)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:19:49 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 2.0ms | Allocations: 711)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.2ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 0.3ms | Allocations: 213)
+  Rendered shared/_footer.html.erb (Duration: 0.2ms | Allocations: 75)
+Completed 200 OK in 13ms (Views: 11.3ms | ActiveRecord: 0.0ms | Allocations: 6266)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:19:50 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 74)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 85)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 4525)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:19:51 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 535)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 72)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 10ms (Views: 8.5ms | ActiveRecord: 0.0ms | Allocations: 4463)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:19:52 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 72)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 84)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4556)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:19:55 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 535)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 72)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 4459)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:19:56 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 3925)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:49:53 -0500
+  
+NameError (uninitialized constant ApplicationControllera):
+  
+app/controllers/calculator_controller.rb:1:in `<main>'
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:50:02 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 73)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.2ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 0.3ms | Allocations: 222)
+  Rendered shared/_footer.html.erb (Duration: 0.1ms | Allocations: 75)
+Completed 200 OK in 13ms (Views: 11.7ms | ActiveRecord: 0.0ms | Allocations: 9588)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:51:01 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 72)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.2ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 0.4ms | Allocations: 218)
+  Rendered shared/_footer.html.erb (Duration: 0.1ms | Allocations: 75)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms | Allocations: 10035)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:51:02 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1019)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 72)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 5468)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:51:23 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 728)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.3ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 0.3ms | Allocations: 209)
+  Rendered shared/_footer.html.erb (Duration: 0.3ms | Allocations: 75)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 6299)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:51:24 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 73)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 84)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4567)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:51:25 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 73)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 85)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 10ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 4569)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:51:37 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 73)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.2ms | Allocations: 76)
+  Rendered shared/_navigation.html.erb (Duration: 0.4ms | Allocations: 218)
+  Rendered shared/_footer.html.erb (Duration: 0.2ms | Allocations: 75)
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 0.0ms | Allocations: 5638)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:51:38 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 728)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 72)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 5207)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:52:52 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 7.9ms | ActiveRecord: 0.0ms | Allocations: 4449)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:52:52 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 76)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 84)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms | Allocations: 4581)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:52:53 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 535)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 72)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4463)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:52:53 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 84)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 3937)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:52:54 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 4452)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:52:54 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 3934)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:52:55 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 3930)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:52:55 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms | Allocations: 4439)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:53:06 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 3934)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:53:07 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 4440)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:53:07 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 3938)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:53:08 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4446)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:53:08 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 3934)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:53:09 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4444)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:53:09 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 3926)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:53:10 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 4444)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:53:10 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 3928)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:53:10 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms | Allocations: 4465)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:53:18 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms | Allocations: 3950)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:53:20 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 3934)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:53:21 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 4451)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:53:27 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms | Allocations: 3955)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:53:28 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 3948)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:53:28 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 4448)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:53:29 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 3930)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:53:29 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4438)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:53:30 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 3928)
+
+
+Started GET "/account/index" for ::1 at 2020-11-28 17:53:43 -0500
+Processing by AccountController#index as HTML
+  Rendering account/index.html.erb within layouts/application
+  Rendered account/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 3927)
+
+
+Started GET "/calculator/index" for ::1 at 2020-11-28 17:53:43 -0500
+Processing by CalculatorController#index as HTML
+  Rendering calculator/index.html.erb within layouts/application
+  Rendered calculator/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 3933)
+
+
+Started GET "/expenses/index" for ::1 at 2020-11-28 17:53:44 -0500
+Processing by ExpensesController#index as HTML
+  Rendering expenses/index.html.erb within layouts/application
+  Rendered expenses/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 526)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered shared/_navigation.html.erb (Duration: 0.1ms | Allocations: 68)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 4462)
+
+
+Started POST "/expenses/index" for ::1 at 2020-11-28 17:53:50 -0500
+  
+ActionController::RoutingError (No route matches [POST] "/expenses/index"):
+  
+actionpack (6.0.3.4) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.1.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.1.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.4) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.4) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.4) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.4) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.4) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.4) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.4) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.3.0) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.4) lib/rails/engine.rb:527:in `call'
+puma (4.3.6) lib/puma/configuration.rb:228:in `call'
+puma (4.3.6) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.6) lib/puma/server.rb:472:in `process_client'
+puma (4.3.6) lib/puma/server.rb:328:in `block in run'
+puma (4.3.6) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
