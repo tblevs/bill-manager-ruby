@@ -1,0 +1,17 @@
+/* For the expense adder form in expenses */
+  .expense-adder-form{
+    margin:10px;
+    display: table;
+  }
+
+  .expense-adder-form label, input{
+    padding:3px;
+    width:50px;
+    margin:10px;
+  }
+
+  .expense-adder-form .form-group {
+    display: table-cell;
+  }
+
+/* For the expense adder form in expenses */
